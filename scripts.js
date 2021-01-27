@@ -8,8 +8,14 @@ for (let i1 = 1; i1 <= 9; i1++) {
     document.write ("</div>"); 
 } 
 
-let y = 5;
-do {
-    document.write(y + "<br>");
-    y++;
-} while (y <= 10);
+// let y = 5;
+// do {
+//     document.write(y + "<br>");
+//     y++;
+// } while (y <= 10);
+
+// let u = 1;
+// do {
+//     document.write(u + "<br>");
+//     u++;
+// } while (u <= 12);
