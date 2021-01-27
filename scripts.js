@@ -19,3 +19,9 @@ for (let i1 = 1; i1 <= 9; i1++) {
 //     document.write(u + "<br>");
 //     u++;
 // } while (u <= 12);
+
+// let t = 15;
+// do {
+//     document.write(t + "<br>");
+//     t--;
+// } while (t >= 1);
