@@ -25,3 +25,9 @@ for (let i1 = 1; i1 <= 9; i1++) {
 //     document.write(t + "<br>");
 //     t--;
 // } while (t >= 1);
+
+let r = 3;
+do {
+    document.write(r + "<br>");
+    r++;
+} while (r <= 50);
